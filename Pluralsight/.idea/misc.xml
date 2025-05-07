@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Akp/pom.xml" />
+        <option value="$PROJECT_DIR$/School/pom.xml" />
+        <option value="$PROJECT_DIR$/Methods/pom.xml" />
+        <option value="$PROJECT_DIR$/Netflix1/pom.xml" />
+        <option value="$PROJECT_DIR$/UnitTest/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/RentalCar/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+        <option value="$PROJECT_DIR$/Assignment/pom.xml" />
+        <option value="$PROJECT_DIR$/Day5-Recap/pom.xml" />
+        <option value="$PROJECT_DIR$/MethodsNew/pom.xml" />
+        <option value="$PROJECT_DIR$/Rental_Car/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/Recap-Week2/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/AddressBuilder/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/FullNameParser/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/VehicleInventory/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-2/NeighboorhoodLibrary/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/LogAction/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/Workbook4/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/ExampleFile/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/Formatdates/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/BugraSessevmez/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/GameModeChoose/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/SearchInventory/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/PayrollCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/AccountingLedgerApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/Module1ErrorHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/Workbook-3/MethpodChangesParameter/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook-4/YearUpClass1/pom.xml" />
+        <option value="$PROJECT_DIR$/NewUnitTest/pom.xml" />
+        <option value="$PROJECT_DIR$/YearUpClass/pom.xml" />
+        <option value="$PROJECT_DIR$/MathApp.java/pom.xml" />
+        <option value="$PROJECT_DIR$/UserInputApp/pom.xml" />
+        <option value="$PROJECT_DIR$/first-Jav-app/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentProject/pom.xml" />
+        <option value="$PROJECT_DIR$/FinancialClientApp/pom.xml" />
+        <option value="$PROJECT_DIR$/FixProjectCalculator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

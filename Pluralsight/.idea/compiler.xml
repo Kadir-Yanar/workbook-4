@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Akp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AccountingLedgerApp" target="24" />
+      <module name="AccountingLedgerApp (1)" target="24" />
+      <module name="AddressBuilder" target="24" />
+      <module name="Akp (1)" target="1.5" />
+      <module name="Assignment" target="24" />
+      <module name="BugraSessevmez" target="24" />
+      <module name="Day5-Recap" target="24" />
+      <module name="ExampleFile" target="24" />
+      <module name="FinancialClientApp" target="24" />
+      <module name="first-java-app" target="17" />
+      <module name="FixProjectCalculator" target="24" />
+      <module name="Formatdates" target="24" />
+      <module name="FullNameParser" target="24" />
+      <module name="GameModeChoose" target="24" />
+      <module name="MathApplication" target="24" />
+      <module name="Methods" target="24" />
+      <module name="MethodsNew" target="24" />
+      <module name="MethpodChangesParameter" target="24" />
+      <module name="Module1ErrorHandling" target="24" />
+      <module name="NeighboorhoodLibrary" target="24" />
+      <module name="Netflix" target="24" />
+      <module name="NewUnitTest" target="24" />
+      <module name="PayrollCalculator" target="24" />
+      <module name="Recap-Week2" target="24" />
+      <module name="Rental_Car" target="24" />
+      <module name="RentalCar" target="24" />
+      <module name="School" target="24" />
+      <module name="SearchEngineLogger" target="24" />
+      <module name="SearchInventory" target="24" />
+      <module name="StudentProject" target="24" />
+      <module name="UnitTest" target="24" />
+      <module name="untitled" target="23" />
+      <module name="untitled1" target="24" />
+      <module name="UserInputApp" target="24" />
+      <module name="VehicleInventory" target="24" />
+      <module name="Workbook4" target="24" />
+      <module name="YearUpClass1" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
